@@ -3,6 +3,7 @@
 
 > *Over 300,000 rural Iowans drink from unregulated private wells. Nitrasensor combines real-time physical hydrology, an ONNX machine learning model, and Google Gemini AI to predict acute nitrate spikes and manure pathogen contamination before water is consumed.*
 
+[Click to Launch Nitrasensor](https://nitrasensor.vercel.app/)
 ---
 
 ## Problem Overview
