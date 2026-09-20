@@ -1,0 +1,26 @@
+{
+  "modelName": "Nitrasensor ML (GradientBoostingRegressor)",
+  "dataSource": "USGS National Water Quality Monitoring Council / Iowa WQP Private Well Database",
+  "features": [
+    "wellDepthFt",
+    "precip48hIn",
+    "soilMoisturePct",
+    "slopePct",
+    "usgsBaselineMgL"
+  ],
+  "featureImportances": {
+    "wellDepthFt": 32.25,
+    "precip48hIn": 46.25,
+    "soilMoisturePct": 17.85,
+    "slopePct": 2.44,
+    "usgsBaselineMgL": 1.21
+  },
+  "metrics": {
+    "test_r2": 0.9826,
+    "test_mae": 0.5382,
+    "test_rmse": 0.7551,
+    "n_samples": 3379,
+    "n_estimators": 160,
+    "max_depth": 4
+  }
+}
