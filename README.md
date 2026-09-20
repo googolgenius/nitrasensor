@@ -101,7 +101,7 @@ flowchart TD
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/googolgenius/nitrasensor.git
-   cd hophacks2026
+   cd nitrasensor
    ```
 
 2. **Install dependencies:**
